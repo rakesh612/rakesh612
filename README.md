@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @rakesh612
-- 👀 I’m interested in MERN Stack Web Development
-- 🌱 I’m currently learning new techniques on mern and I am strong in java DSA
-- 💞️ I’m looking to collaborate on full stack projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-rakesh612/rakesh612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋, I'm Hanumath Rakesh
+🚀 Full Stack Web Developer | MERN Wizard | AI Innovator
+👨‍💻 About Me
+🎓 4th Year CSE Student @ Mohan Babu University (CGPA: 9.59)
+💻 Full-stack developer proficient in MERN Stack, Java, JavaScript, MongoDB, and AWS
+🧠 Solved over 350+ DSA problems
+LeetCode • GFG
+🤝 I’m always enthusiastic about collaborating with passionate developers to build meaningful, real-world tech solutions
+🚀 Currently exploring AI Integrations, System Design, and Advanced DSA
